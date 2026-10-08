@@ -1,30 +1,9 @@
 {
   "schema_version": 1,
   "builds": {
-    "999ef0d38269029134ea2fb6c0dc92aaf7067c5d2e28b01f9ea920e02d2d0df4": {
-      "version": "v0.1.0-beta1",
-      "published_at": "2026-10-08T18:00:00Z",
-      "expires_at": "2026-10-15T18:00:00Z",
-      "revoked": true,
-      "revoke_message": "Superseded by fresh build"
-    },
-    "06701325888371e20809c0835f6ffd618afb82a86bc8987ea6b44e385f88996c": {
-      "version": "v0.1.0-beta-20261008",
-      "published_at": "2026-10-08T16:07:18Z",
-      "expires_at": "2026-10-15T16:07:18Z",
-      "revoked": true,
-      "revoke_message": ""
-    },
-    "15b4e6621f9fb21b8c77290def4fadb4f55c1d5257df22fef3bd8e075028f969": {
-      "version": "v0.1.0-beta-20261008",
-      "published_at": "2026-10-08T16:14:11Z",
-      "expires_at": "2026-10-15T16:14:11Z",
-      "revoked": true,
-      "revoke_message": ""
-    },
     "e31283291d21458e521e171839f7123da8716b2d3ea9697465d417fdb17f827c": {
       "version": "v0.1.0-beta-20261008",
-      "published_at": "2026-10-08T16:20:22Z",
+      "published_at": "2026-10-06T16:20:22Z",
       "expires_at": "2026-10-15T16:20:22Z",
       "revoked": false,
       "revoke_message": ""
