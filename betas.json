@@ -5,8 +5,8 @@
       "version": "v0.1.0-beta1",
       "published_at": "2026-10-08T18:00:00Z",
       "expires_at": "2026-10-15T18:00:00Z",
-      "revoked": false,
-      "revoke_message": ""
+      "revoked": true,
+      "revoke_message": "Superseded by fresh build"
     },
     "06701325888371e20809c0835f6ffd618afb82a86bc8987ea6b44e385f88996c": {
       "version": "v0.1.0-beta-20261008",
