@@ -1,1 +1,12 @@
-
+{
+  "schema_version": 1,
+  "builds": {
+    "94fcfd3db650f0d3ce373c0459b68b9f1e550e11f11804dd206db23c4ac01dc8": {
+      "version": "v0.1.0-beta-20261008",
+      "published_at": "2026-10-08T16:41:50Z",
+      "expires_at": "2026-10-15T16:41:50Z",
+      "revoked": false,
+      "revoke_message": ""
+    }
+  }
+}
