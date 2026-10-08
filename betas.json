@@ -6,16 +6,16 @@
       "platform": "linux",
       "published_at": "2026-10-08T17:42:40Z",
       "expires_at": "2026-10-15T17:42:40Z",
-      "revoked": false,
-      "revoke_message": ""
+      "revoked": true,
+      "revoke_message": "Build will be superseded soon with updated version."
     },
     "ec13b82b79ab15b6af633193f2634996d367214d96b288e608bcd4fdeff51281": {
       "version": "v0.1.0-beta-20261008",
       "platform": "windows",
       "published_at": "2026-10-08T17:53:07Z",
       "expires_at": "2026-10-15T17:53:07Z",
-      "revoked": false,
-      "revoke_message": ""
+      "revoked": true,
+      "revoke_message": "Build will be superseded soon with updated version."
     }
   }
 }
