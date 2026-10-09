@@ -46,8 +46,8 @@
       "platform": "windows",
       "published_at": "2026-10-08T20:24:08Z",
       "expires_at": "2026-10-15T20:24:08Z",
-      "revoked": true,
-      "revoke_message": "Testing revocation status for Win platforms"
+      "revoked": false,
+      "revoke_message": ""
     }
   }
 }
