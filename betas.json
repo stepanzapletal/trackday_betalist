@@ -56,6 +56,14 @@
       "expires_at": "2026-10-11T16:52:29Z",
       "revoked": false,
       "revoke_message": ""
+    },
+    "422d906fa50ff4d0c5b6379032985e7186f3881cff82414bd5fffcde5afe7c98": {
+      "version": "v0.1.3-beta-20261010",
+      "platform": "windows",
+      "published_at": "2026-10-10T20:46:44Z",
+      "expires_at": "2026-10-11T20:46:44Z",
+      "revoked": false,
+      "revoke_message": ""
     }
   }
 }
